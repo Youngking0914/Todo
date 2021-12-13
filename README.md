@@ -1,5 +1,8 @@
 ## iOS 공부하면서 참고할만한 글 모음!
 
+
+* #### [iOS 개발환경 (맥, XCode, 프로젝트 관리, 빌드 설정 등)](https://codesquad-yoda.medium.com/%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-ios-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-2-2-9cf55c20b4d7?p=b0bd0b9a34b)
+
 * #### [SwiftUI 레이아웃 이해하기 + Geometry + PreferenceKey](https://protocorn93.github.io/tags/PreferenceKey/)
 
 * #### [Alamofire post json 참고](https://nsios.tistory.com/21)
