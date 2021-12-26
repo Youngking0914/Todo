@@ -16,4 +16,6 @@
 * #### [2021 프로그래머스 Dev-Matching 과제 테스트 "K MOOC 강좌정보 서비스"](https://prgms.tistory.com/87)
 
 * #### [SwiftUI 뷰 이동 라우터 방식](https://islet4you.tistory.com/m/entry/Swift-UI-ObservedObject-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-View-%EC%9D%B4%EB%8F%99)
+
+* #### [Property Observer get, set, didset, willset](https://medium.com/ios-development-with-swift/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0-get-set-didset-willset-in-ios-a8f2d4da5514)
  
